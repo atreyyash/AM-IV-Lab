@@ -20,7 +20,10 @@ double eq3(double &x,double &y){
 }
 int main(){
 
-	cout<<"\t\t\t\t\tExperiment 3\n\t\t\t\t\tYash Atrey CSE-A 109\n\t\t\t\t\tDate: 06-04-21 \n\n";
+	cout<<"\tExperiment 3\n\tYash Atrey CSE-A 109\n\tRoll NO. : 109-CSEA-19\n\tDate: 06-04-21 \n\n";
+	cout<<"Write a program to solve system of equation\n";
+	cout<<"8x - 3y + 2z = 20 \n4x - 11y - z = 33  \n6x + 3y + 12z = 35\n";
+	cout<<"using gauss siedel interation method correct to four decimal places\n\n";
 	cout<<"Equations are: \n8x - 3y + 2z = 20\n4x - 11y - z = 33\n6x + 3y + 12z = 35\n";
 	double x0=0,y0=0,z0=0;
 

@@ -9,6 +9,13 @@ using namespace std;
 
 int main()
 {
+    cout<<"\tExperiment-4"<<endl;
+    cout<<"\tMade By :  : Yash Atrey"<<endl;
+    cout<<"\tRoll No. : 109-CSEA-19"<<endl;
+
+    cout<<"Write a program to evaluate y for x=10 using \nLangrange's Interpolation formula, from the following data\n";
+    cout<<"\tx :     5   6   9   11\n";
+    cout<<"\ty :     12  13  14  16\n";
     int x[] = {5, 6, 9, 11};
     int y[] = {12, 13, 14, 16};
     float y1=0,p;
@@ -27,7 +34,6 @@ int main()
         y1 = y1 + p * y[i];
     }
 
-    cout<<"The Value at interpolated point is "<<y1<<endl;
-    cout<<"Name : Yash Atrey"<<endl;
-    cout<<"Enroll no  :: 35520802719"<<endl;
+    cout<<"\n\nThe Value at interpolated point is "<<y1<<endl;
+
 }

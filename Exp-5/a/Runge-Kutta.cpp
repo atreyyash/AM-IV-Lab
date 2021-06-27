@@ -13,9 +13,10 @@ int main()
     float x0, y0, xn, yn, h, k1, k2, k3, k4, k;
     int i, n;
 
-    cout<<"\t\t\t\t\tExperiment-5\t\t\t\t\t\tDate : 04-05-2021"<<endl;
-    cout<<"\t\t\t\t\tYash Atrey"<<endl;
-    cout<<"\t\t\t\t\t109-CSEA-19"<<endl;
+    cout<<"\tExperiment-5"<<endl;
+    cout<<"\tMade By : Yash Atrey"<<endl;
+    cout<<"\tRoll No. : 109-CSEA-19"<<endl;
+    cout<<"\tDate : 04-05-2021\n"<<endl;
 
     cout<<"x0 :";
     cin>>x0;

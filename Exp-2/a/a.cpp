@@ -7,8 +7,9 @@ using namespace std;
 
 int main()
 {
-    cout<<"\t\t\t\t\t\tExperiment - 2"<<endl;
-    cout<<"Yash Atrey"<<endl;
+    cout<<"\tExperiment - 2"<<endl;
+    cout<<"\tMade By : Yash Atrey"<<endl;
+    cout<<"\tRoll No. : 109-CSEA-19\n"<<endl;
 
     double x0=2, x1=3;
     double y0=-1, y1=16;

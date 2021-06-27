@@ -12,8 +12,11 @@ double fx(double x)
 
 int main()
 {
-    cout<<"\t\t\t\t\tExperiment - 2(b)"<<endl;
-    cout<<"\t\t\t\t\tYash Atrey"<<endl;
+    cout<<"\tExperiment - 2(b)"<<endl;
+    cout<<"\tMade By : Yash Atrey"<<endl;
+    cout<<"\tRoll No. : 109-CSEA-19\n"<<endl;
+    cout<<"Write a program to find a positive root of equation x^2 - 12 logx - 12 = 0 \nusing Regula - Falsi method and correct up to three decimal places\n"
+<<endl;
 
     double x0 = 3, x1 = 4;
     double y0 = -3.47712, y1 = 3.39794;
