@@ -9,10 +9,10 @@ using namespace std;
 
 int main()
 {
-    cout<<"\t\t\t\t\t\tExperiment-7"<<endl;
-    cout<<"\t\t\t\t\t\tMade By : Yash Atrey"<<endl;
-    cout<<"\t\t\t\t\t\tRoll no. : 109-CSEA-19"<<endl;
-    cout<<"\t\t\t\t\t\tDate : 18-05-2021"<<endl;
+    cout<<"\t\tExperiment-7"<<endl;
+    cout<<"\t\tMade By : Yash Atrey"<<endl;
+    cout<<"\t\tRoll no. : 109-CSEA-19"<<endl;
+    cout<<"\t\tDate : 18-05-2021"<<endl;
 
     cout<<"Write a program to fit the equation of a line of the form y = a + bx for th following data"<<endl;
     cout<<"x :: 1    2   3   4   5"<<endl;

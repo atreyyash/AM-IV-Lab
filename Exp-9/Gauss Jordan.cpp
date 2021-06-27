@@ -1,10 +1,10 @@
 #include<iostream>
 using namespace std;
 int main() {
-	cout<<"\t\t\t\t\t\tExperiment-9"<<endl;
-	cout<<"\t\t\t\t\t\tMade by : Yash Atrey"<<endl;
-	cout<<"\t\t\t\t\t\tRoll no. : 109-CSEA-19"<<endl;
-	cout<<"\nProgram to solve the following system of equation by gauss jordan method ";
+	cout<<"\tExperiment-9"<<endl;
+	cout<<"\tMade by : Yash Atrey"<<endl;
+	cout<<"\tRoll no. : 109-CSEA-19"<<endl;
+	cout<<"\nProgram to solve the following system of equation by Gauss Jordan Method ";
 	cout<<"\n x + 2y + z - w = -2";
 	cout<<"\n 2x + 3y -z + 2w = 7";
 	cout<<"\n x + y + 3z -2w = -6";

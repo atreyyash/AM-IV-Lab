@@ -1,0 +1,6 @@
+	Experiment-10
+	Made By : Yash Atrey
+	Roll No. : 109-CSEA-19
+Date : 15-06-21
+
+Program to find inverse of a matrix Enter the size of matrix: Enter the elements of matrix
